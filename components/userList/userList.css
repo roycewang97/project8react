@@ -1,0 +1,7 @@
+.collection-item:hover {
+  cursor: pointer;
+}
+
+#list {
+  background-color: lightgray;
+}

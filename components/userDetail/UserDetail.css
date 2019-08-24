@@ -1,0 +1,13 @@
+#detailWrapper {
+  margin: 8px;
+  padding: 20px;
+  background-color: lightgray;
+}
+.content {
+  left: 0;
+}
+
+.name {
+  font-size: 40px;
+  color: yellow;
+}
